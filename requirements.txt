@@ -1,2 +1,9 @@
 streamlit
-openai
+langchain
+langchain_community
+langchain_groq
+sentence-transformers
+einops
+chromadb
+pysqlite3-binary
+protobuf==3.20.0
